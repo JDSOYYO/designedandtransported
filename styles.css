@@ -1,0 +1,437 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1366px;
+	 height: 1536px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Rectngulo1 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1368px;
+	 height: 108px;
+	 z-index:1;
+} 
+
+ #Rectngulo1copia 
+{ 
+	 left: -1px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 1368px;
+	 height: 1023px;
+	 z-index:2;
+} 
+
+ #Rectngulo1copia2 
+{ 
+	 left: -1px; 
+	 top: 1126px; 
+	 position: absolute; 
+	 width: 1368px;
+	 height: 80px;
+	 z-index:3;
+} 
+
+ #Misrecetas 
+{ 
+	 left: 523px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 59px;
+	 z-index:4;
+} 
+
+ #Misrecetas_0 
+{ 
+	 left: 428px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 74px;
+	 z-index:5;
+} 
+
+ #Rectnguloredondeado2 
+{ 
+	 left: 290px; 
+	 top: 115px; 
+	 position: absolute; 
+	 width: 210px;
+	 height: 45px;
+	 z-index:6;
+} 
+
+ #Inicio 
+{ 
+	 left: 352px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 28px;
+	 z-index:7;
+} 
+
+ #Rectnguloredondeado2_0 
+{ 
+	 left: 523px; 
+	 top: 115px; 
+	 position: absolute; 
+	 width: 210px;
+	 height: 45px;
+	 z-index:8;
+} 
+
+ #Recetas 
+{ 
+	 left: 566px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 28px;
+	 z-index:9;
+} 
+
+ #Rectnguloredondeado2_1 
+{ 
+	 left: 746px; 
+	 top: 115px; 
+	 position: absolute; 
+	 width: 210px;
+	 height: 45px;
+	 z-index:10;
+} 
+
+ #Contacto 
+{ 
+	 left: 775px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 28px;
+	 z-index:11;
+} 
+
+ #Misrecetas_1 
+{ 
+	 left: 508px; 
+	 top: 1137px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 63px;
+	 z-index:12;
+} 
+
+ #Misrecetas_2 
+{ 
+	 left: 592px; 
+	 top: 1151px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 38px;
+	 z-index:13;
+} 
+
+ #seccin2 
+{ 
+	 left: 846px; 
+	 top: 197px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 621px;
+	 z-index:14;
+} 
+
+ #Rectngulo2copia4 
+{ 
+	 left: 900px; 
+	 top: 225px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 109px;
+	 z-index:15;
+} 
+
+ #Receta5Macarronesinc 
+{ 
+	 left: 922px; 
+	 top: 243px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 67px;
+	 z-index:16;
+} 
+
+ #Rectngulo2copia5 
+{ 
+	 left: 892px; 
+	 top: 327px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 109px;
+	 z-index:17;
+} 
+
+ #Receta6Macarronesinc 
+{ 
+	 left: 914px; 
+	 top: 345px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 67px;
+	 z-index:18;
+} 
+
+ #Rectngulo2copia6 
+{ 
+	 left: 882px; 
+	 top: 426px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 109px;
+	 z-index:19;
+} 
+
+ #Receta7Macarronesinc 
+{ 
+	 left: 904px; 
+	 top: 444px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 67px;
+	 z-index:20;
+} 
+
+ #Rectngulo2copia7 
+{ 
+	 left: 870px; 
+	 top: 526px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 109px;
+	 z-index:21;
+} 
+
+ #Receta8Macarronesinc 
+{ 
+	 left: 892px; 
+	 top: 544px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 67px;
+	 z-index:22;
+} 
+
+ #Rectnguloredondeado1 
+{ 
+	 left: 58px; 
+	 top: 210px; 
+	 position: absolute; 
+	 width: 705px;
+	 height: 520px;
+	 z-index:23;
+} 
+
+ #Rectngulo2 
+{ 
+	 left: 268px; 
+	 top: 253px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 83px;
+	 z-index:24;
+} 
+
+ #Receta1Espaguetisdel 
+{ 
+	 left: 288px; 
+	 top: 268px; 
+	 position: absolute; 
+	 width: 457px;
+	 height: 50px;
+	 z-index:25;
+} 
+
+ #Rectngulo2copia 
+{ 
+	 left: 268px; 
+	 top: 366px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 83px;
+	 z-index:26;
+} 
+
+ #Receta2Caldodelicios 
+{ 
+	 left: 287px; 
+	 top: 381px; 
+	 position: absolute; 
+	 width: 398px;
+	 height: 45px;
+	 z-index:27;
+} 
+
+ #Rectngulo2copia2 
+{ 
+	 left: 268px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 83px;
+	 z-index:28;
+} 
+
+ #Receta3Tiramisdelici 
+{ 
+	 left: 286px; 
+	 top: 494px; 
+	 position: absolute; 
+	 width: 426px;
+	 height: 45px;
+	 z-index:29;
+} 
+
+ #Rectngulo2copia3 
+{ 
+	 left: 272px; 
+	 top: 592px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 83px;
+	 z-index:30;
+} 
+
+ #Receta4Lubinadelicio 
+{ 
+	 left: 292px; 
+	 top: 607px; 
+	 position: absolute; 
+	 width: 404px;
+	 height: 45px;
+	 z-index:31;
+} 
+
+ #lubinaconhummusdegui 
+{ 
+	 left: 92px; 
+	 top: 586px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 105px;
+	 z-index:32;
+} 
+
+ #tiramisuexpress 
+{ 
+	 left: 92px; 
+	 top: 472px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 105px;
+	 z-index:33;
+} 
+
+ #vichyssoisedeesparra 
+{ 
+	 left: 89px; 
+	 top: 359px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 104px;
+	 z-index:34;
+} 
+
+ #espaguetisdecalabaci 
+{ 
+	 left: 89px; 
+	 top: 246px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 104px;
+	 z-index:35;
+} 
+
+ #Rectnguloredondeado1_0 
+{ 
+	 left: 154px; 
+	 top: 754px; 
+	 position: absolute; 
+	 width: 1013px;
+	 height: 347px;
+	 z-index:36;
+} 
+
+ #Rectngulo3 
+{ 
+	 left: 168px; 
+	 top: 980px; 
+	 position: absolute; 
+	 width: 989px;
+	 height: 102px;
+	 z-index:37;
+} 
+
+ #hojita 
+{ 
+	 left: 937px; 
+	 top: 638px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 103px;
+	 z-index:38;
+} 
+
+ #Enestawebencontrarsl 
+{ 
+	 left: 193px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 941px;
+	 height: 64px;
+	 z-index:39;
+} 
+
+ #Capa2 
+{ 
+	 left: 1075px; 
+	 top: 472px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 256px;
+	 z-index:40;
+} 
+
+ #Capa6 
+{ 
+	 left: 533px; 
+	 top: 803px; 
+	 position: absolute; 
+	 width: 261px;
+	 height: 129px;
+	 z-index:41;
+} 
+
+ #Capa4 
+{ 
+	 left: 1122px; 
+	 top: 448px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 95px;
+	 z-index:42;
+} 
